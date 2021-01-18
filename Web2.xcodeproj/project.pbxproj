@@ -13,6 +13,7 @@
 		EEB0C3A925B5AAC400FB5FC3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EEB0C3A725B5AAC400FB5FC3 /* Main.storyboard */; };
 		EEB0C3AB25B5AAC500FB5FC3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EEB0C3AA25B5AAC500FB5FC3 /* Assets.xcassets */; };
 		EEB0C3AE25B5AAC500FB5FC3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EEB0C3AC25B5AAC500FB5FC3 /* LaunchScreen.storyboard */; };
+		EEB0C3B725B5F52C00FB5FC3 /* htmlView.html in Resources */ = {isa = PBXBuildFile; fileRef = EEB0C3B625B5F52C00FB5FC3 /* htmlView.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EEB0C3AA25B5AAC500FB5FC3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EEB0C3AD25B5AAC500FB5FC3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EEB0C3AF25B5AAC500FB5FC3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EEB0C3B625B5F52C00FB5FC3 /* htmlView.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = htmlView.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				EEB0C3A125B5AAC400FB5FC3 /* AppDelegate.swift */,
 				EEB0C3A325B5AAC400FB5FC3 /* SceneDelegate.swift */,
 				EEB0C3A525B5AAC400FB5FC3 /* ViewController.swift */,
+				EEB0C3B625B5F52C00FB5FC3 /* htmlView.html */,
 				EEB0C3A725B5AAC400FB5FC3 /* Main.storyboard */,
 				EEB0C3AA25B5AAC500FB5FC3 /* Assets.xcassets */,
 				EEB0C3AC25B5AAC500FB5FC3 /* LaunchScreen.storyboard */,
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EEB0C3B725B5F52C00FB5FC3 /* htmlView.html in Resources */,
 				EEB0C3AE25B5AAC500FB5FC3 /* LaunchScreen.storyboard in Resources */,
 				EEB0C3AB25B5AAC500FB5FC3 /* Assets.xcassets in Resources */,
 				EEB0C3A925B5AAC400FB5FC3 /* Main.storyboard in Resources */,
