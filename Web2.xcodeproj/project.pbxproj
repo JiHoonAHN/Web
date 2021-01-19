@@ -62,8 +62,8 @@
 				EEB0C3A325B5AAC400FB5FC3 /* SceneDelegate.swift */,
 				EEB0C3A525B5AAC400FB5FC3 /* ViewController.swift */,
 				EEB0C3B625B5F52C00FB5FC3 /* htmlView.html */,
-				EEB0C3A725B5AAC400FB5FC3 /* Main.storyboard */,
 				EEB0C3AA25B5AAC500FB5FC3 /* Assets.xcassets */,
+				EEB0C3A725B5AAC400FB5FC3 /* Main.storyboard */,
 				EEB0C3AC25B5AAC500FB5FC3 /* LaunchScreen.storyboard */,
 				EEB0C3AF25B5AAC500FB5FC3 /* Info.plist */,
 			);
